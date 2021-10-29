@@ -1,0 +1,27 @@
+{
+  "name": "smtpmailclient",
+  "version": "1.0.0",
+  "description": "lab3",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chalkydoge/SMTPMailClient.git"
+  },
+  "keywords": [
+    "SMTP",
+    "Network"
+  ],
+  "author": "ChalkyDoge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chalkydoge/SMTPMailClient/issues"
+  },
+  "homepage": "https://github.com/Chalkydoge/SMTPMailClient#readme",
+  "devDependencies": {
+    "electron": "^15.3.0"
+  }
+}
